@@ -14,8 +14,10 @@ variable "default_sg" {
 }
 
 variable "AWS_ACCESS_KEY_ID" {
+  default="xxx"
 }
 
 
 variable "AWS_SECRET_ACCESS_KEY" {
+  default="xxx"
 }
